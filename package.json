@@ -74,7 +74,7 @@
     "echo-js": "^1.7.3",
     "eslint-config-airbnb": "^18.1.0",
     "eslint-config-airbnb-base": "^14.1.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-lazyload": "^1.9.7",
     "js-base64": "^2.5.2",
     "lodash": "^4.17.15",
