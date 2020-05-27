@@ -1,19 +1,3 @@
-1. 使用inquirer选择编译版本
-2. 清空选中版本目录，使用CleanWebpackPlugin插件，注意引用方式。
-3. 编译pug，使用HtmlWebpackPlugin插件，每个htmlWebpackPlugin只能实例化一个页面，编译多页面应用时要配置多个
-4. 编译less
-5. 编译js
-
-### 编译css
-#### 一、基础版
-1. npm安装style-loader, css-loader, less-loader, less。
-2. js通过import引入less，loader链式调用style-loader, css-loader, less-loader将less打包进js。
-
-#### 二、将less从js中分离
-1. npm安装mini-css-extract-plugin
-2. 在js中通过import引入需要的less文件，webpack中通过MiniCssExtractPlugin编译less文件，插入到html文件中
-
-
 
 
 ## 杂记
