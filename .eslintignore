@@ -1,0 +1,8 @@
+node_modules/*
+dist/*
+mock/*
+build/*
+assets/*
+src/assets/*
+webpack.config.js
+postcss.config.js
